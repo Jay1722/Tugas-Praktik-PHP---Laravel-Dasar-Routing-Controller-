@@ -6,6 +6,15 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+# Aplikasi Manajemen Fakultas & Prodi
+
+## Cara Menjalankan
+1. Clone repo ini
+2. Jalankan `composer install`
+3. Jalankan `npm install && npm run dev`
+4. Copy `.env.example` ke `.env` lalu sesuaikan koneksi database
+5. Jalankan `php artisan migrate`
+6. Jalankan `php artisan serve`
 
 ## About Laravel
 
